@@ -23,5 +23,5 @@ function sieveOfEratosthenes(n) {
     return primeNum
 }
 
-console.log(sieveOfEratosthenes(11)); // true
-console.log(sieveOfEratosthenes(10)); // false
+console.log(sieveOfEratosthenes(11));
+console.log(sieveOfEratosthenes(10));
