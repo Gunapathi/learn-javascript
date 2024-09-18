@@ -1,0 +1,7 @@
+1. How JS works with browser - https://www.youtube.com/watch?v=xckH5s3UuX4
+2. Event Loop - https://www.youtube.com/watch?v=eiC58R16hb8
+3. typeOf – array, null, undefined
+4. Primitive & Non-Primitive
+5. Null vs undefined
+6. Currying
+7. reverse a string without using inbuilt function
