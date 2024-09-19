@@ -8,4 +8,16 @@ function fibnocci(n) {
     return fib;
 }
 
-console.log(fibnocci(10))
+// console.log(fibnocci(10))
+
+// function fun(a = 10, b = 1) {
+//     return a + b;
+// }
+
+// console.log(fun(null, 10));
+// console.log(fun(undefined, 10));
+
+// 
+console.log(num);
+var num;
+num = 10;
